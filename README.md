@@ -88,7 +88,7 @@ The `MODEL/` directory contains the pre-trained classifier used for inference:
 
 ## License
 
-No license specified. Please contact the repository owner for usage permissions.
+No license Needed.
 
 ## Acknowledgements
 
